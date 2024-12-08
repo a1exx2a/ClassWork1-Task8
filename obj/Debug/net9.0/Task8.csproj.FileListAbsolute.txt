@@ -1,0 +1,14 @@
+F:\Backend\C#\Lesson4\Task8\bin\Debug\net9.0\Task8.exe
+F:\Backend\C#\Lesson4\Task8\bin\Debug\net9.0\Task8.deps.json
+F:\Backend\C#\Lesson4\Task8\bin\Debug\net9.0\Task8.runtimeconfig.json
+F:\Backend\C#\Lesson4\Task8\bin\Debug\net9.0\Task8.dll
+F:\Backend\C#\Lesson4\Task8\bin\Debug\net9.0\Task8.pdb
+F:\Backend\C#\Lesson4\Task8\obj\Debug\net9.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+F:\Backend\C#\Lesson4\Task8\obj\Debug\net9.0\Task8.AssemblyInfoInputs.cache
+F:\Backend\C#\Lesson4\Task8\obj\Debug\net9.0\Task8.AssemblyInfo.cs
+F:\Backend\C#\Lesson4\Task8\obj\Debug\net9.0\Task8.csproj.CoreCompileInputs.cache
+F:\Backend\C#\Lesson4\Task8\obj\Debug\net9.0\Task8.dll
+F:\Backend\C#\Lesson4\Task8\obj\Debug\net9.0\refint\Task8.dll
+F:\Backend\C#\Lesson4\Task8\obj\Debug\net9.0\Task8.pdb
+F:\Backend\C#\Lesson4\Task8\obj\Debug\net9.0\Task8.genruntimeconfig.cache
+F:\Backend\C#\Lesson4\Task8\obj\Debug\net9.0\ref\Task8.dll
